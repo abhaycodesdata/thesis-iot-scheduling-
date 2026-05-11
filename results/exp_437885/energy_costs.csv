@@ -1,0 +1,2 @@
+cost_sleep,cost_wait,cost_transmit,source,mean_sleep_mw,mean_wait_mw,mean_tx_mw,p10_mw,p70_mw
+1,3,10,hardware_default,104.88,111.92,132.39,105.28,130.08
