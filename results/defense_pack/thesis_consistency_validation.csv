@@ -1,0 +1,17 @@
+check,passed,detail
+exp_results available,True,"experiments=['437885', '437864', '437035']"
+final_summary available,True,rows=13
+tradeoff_summary uses safe semantics,True,no single-metric dominance claims are generated
+Figure 4.2 source CSV exists,True,d:\thesis-iot-scheduling-\results\comparison\figure_4_2_tradeoff_frontier_source.csv
+Figure 4.2 source CSV has required columns,True,columns=14
+Figure 4.2 values match exp_results summary,True,"max AoI Δ=8.88e-16, max lifetime Δ=7.11e-15"
+Output available: table_4_1_policy_performance.csv,True,d:\thesis-iot-scheduling-\results\comparison\final_policy_summary_for_thesis.csv
+Output available: table_4_2_tradeoff_frontier.csv,True,d:\thesis-iot-scheduling-\results\comparison\figure_4_2_tradeoff_frontier_source.csv
+Output available: tradeoff_interpretation_summary.csv,True,d:\thesis-iot-scheduling-\results\comparison\final_tradeoff_interpretation_summary.csv
+Output available: figure_4_1_action_distribution.png,True,d:\thesis-iot-scheduling-\results\figures\figure_4_1_action_distribution.png
+Output available: figure_4_2_tradeoff_frontier_clean.png,True,d:\thesis-iot-scheduling-\results\figures\figure_4_2_tradeoff_frontier_clean.png
+Output available: figure_4_3_weight_sweep.png,True,d:\thesis-iot-scheduling-\results\figures\figure_4_3_weight_sweep.png
+Output available: figure_4_4_combined_cost.png,True,d:\thesis-iot-scheduling-\results\figures\figure_4_4_combined_cost.png
+Output available: figure_4_5_stability_cv.png,True,d:\thesis-iot-scheduling-\results\figures\figure_4_5_stability_cv.png
+Output available: appendix_channel_quality_distribution.png,True,d:\thesis-iot-scheduling-\results\figures\appendix_A2_channel_quality_distribution.png
+Output available: appendix_controlled_channel_policy_heatmap.png,True,d:\thesis-iot-scheduling-\results\figures\appendix_A3_controlled_channel_policy_heatmap.png

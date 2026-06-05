@@ -1,0 +1,13 @@
+scenario,parameter,value,lifetime,mean_aoi,total_energy,tx_rate
+Battery capacity,battery_cap,50.0,15.35,6.4574010854341735,47.625,0.09998862044817927
+Battery capacity,battery_cap,100.0,34.7,6.8504702422585755,97.3,0.13991421941632573
+Battery capacity,battery_cap,150.0,53.275,7.0832577985264775,147.7,0.15582522056811404
+Battery capacity,battery_cap,200.0,71.975,7.258640633501466,197.0,0.15696259792573905
+Transmission cost,cost_transmit,5.0,44.225,6.769942962851369,98.5,0.15814078263300077
+Transmission cost,cost_transmit,8.0,37.7,6.808546378219345,97.5,0.13877475666355246
+Transmission cost,cost_transmit,10.0,34.7,6.8504702422585755,97.3,0.13991421941632573
+Transmission cost,cost_transmit,15.0,29.9,7.333029220022828,95.475,0.1227763444867126
+Good-channel success probability,good_success_prob,0.7,34.7,6.8504702422585755,97.3,0.13991421941632573
+Good-channel success probability,good_success_prob,0.8,34.7,6.8504702422585755,97.3,0.13991421941632573
+Good-channel success probability,good_success_prob,0.9,34.7,6.8504702422585755,97.3,0.13991421941632573
+Good-channel success probability,good_success_prob,1.0,34.7,6.8504702422585755,97.3,0.13991421941632573
